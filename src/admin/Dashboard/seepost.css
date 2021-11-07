@@ -1,0 +1,21 @@
+.body{
+    font-family: 'Oswald', sans-serif;
+}
+#addcomment{
+    font-family: 'Oswald', sans-serif;
+    border-radius: 0px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(53, 52, 52);
+    border: 2px solid rgb(82, 80, 80);
+}
+#tags{
+    color: rgb(61, 163, 189);
+    border: 1px solid rgb(61, 163, 189);
+}
+#own{
+    font-family: 'Oswald', sans-serif;
+    border-radius: 0px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(53, 52, 52);
+    border: 1px solid rgb(82, 80, 80);
+}

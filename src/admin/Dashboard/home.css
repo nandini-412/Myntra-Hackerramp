@@ -1,0 +1,18 @@
+#dashboard{
+    color: rgb(88, 88, 88);
+    text-shadow: 1px 1px rgb(148, 148, 148);
+    font-family: 'Oswald', sans-serif;
+}
+#index{
+    padding-top: 7px;
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 7px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    border-radius: 0px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(53, 52, 52);
+    border: 2px solid rgb(82, 80, 80);
+    margin-top: 70px;
+    margin-left: 45%;
+}

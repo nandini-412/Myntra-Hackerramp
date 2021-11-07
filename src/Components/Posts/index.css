@@ -1,0 +1,14 @@
+#allposts{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+    color: rgb(68, 67, 67);
+    border: 1px solid rgb(170, 168, 168);
+    margin-left: 25%;
+}
+#postbuttons{
+    background-color: rgb(255, 254, 253);
+    font-family: 'Oswald', sans-serif;
+}
+#tags{
+    border-radius: 3px;
+}
